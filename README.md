@@ -1,1 +1,8 @@
-# rails-youtube-music-clon
+# Rails Youtube Music Clon
+
+## Team
+
+- Diego Torres
+- Christopher
+- Paul
+- Carlos Ayala
